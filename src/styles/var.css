@@ -1,0 +1,7 @@
+/** 
+* 使用带--el前缀替换element-plus全局样式 
+*/
+:root {
+  --sidebar-width: 210px;
+  --el-color-primary: #409eff;
+}

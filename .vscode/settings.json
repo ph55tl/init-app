@@ -1,0 +1,14 @@
+{
+	"editor.formatOnSave": false,
+	"stylelint.enable": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.stylelint": true
+	},
+	"stylelint.validate": ["css", "less", "postcss", "scss", "vue", "sass", "html"],
+  "css.validate": false,
+  "scss.validate": false,
+  "less.validate": false,
+	"files.eol": "\n",
+	"cSpell.words": [ 
+	]
+}
